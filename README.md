@@ -1,2 +1,2 @@
-Этот репозиторий содержит материалы дипломному проекту по курсу "Data science".
-Тема дипломного проекта "Поиск выбросов на основе частных производных функции потерь логистической регрессии"
+This repository contains materials of diplom work of  "Data science" course.
+Theme of the thesis: “Search for outliers when analyzing partial derivatives of the loss function of logistic regression”
